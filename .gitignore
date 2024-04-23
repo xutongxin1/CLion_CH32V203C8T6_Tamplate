@@ -1,0 +1,6 @@
+
+cmake-build-debug-riscv-none-embed-gcc/
+
+.idea/
+
+obj/
